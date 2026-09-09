@@ -18,3 +18,8 @@ print("Your age is:", age)
 marks = float(input("Enter your marks: "))
 
 print("Your marks are:", marks)
+"""Key points
+print() → displays output.
+input() → takes input from the user.
+int() → converts input to an integer.
+float() → converts input to a decimal number"""
