@@ -1,0 +1,16 @@
+```json
+[
+    {
+        "title": "Complete Python project",
+        "completed": false
+    },
+    {
+        "title": "Practice Python functions",
+        "completed": false
+    },
+    {
+        "title": "Learn JSON file handling",
+        "completed": true
+    }
+]
+```
