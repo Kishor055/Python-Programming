@@ -1,4 +1,3 @@
-````
 # 🐍 Python Functions
 
 > **Functions are reusable blocks of code that perform a specific task.**
@@ -23,7 +22,6 @@ Functions make programs:
 
 ### Function Benefits
 
-```text
                     FUNCTIONS
                         │
         ┌───────────────┼───────────────┐
@@ -35,7 +33,7 @@ Functions make programs:
                   Maintainability
 ````
 
----
+
 
  # 📚 Topics Covered
 
